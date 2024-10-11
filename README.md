@@ -1,7 +1,7 @@
 ### OI! Meu nome é Renato, criei esse repo para aperfeiçoar meus estudo na area de desenvolvimento de software 👋
 
 
-- 🔭 Pescador por natureza, desenvolvedor na ViaVarejo como hobby
+- 🔭 Pescador por natureza, desenvolvedor nas horas vagas
 - 🌱 Aprendendo um pouco mais de Java, SpringBoot, POO, TDD 
 - 👯 Ajudo no que for preciso, se não souber, aprendemos juntos!
 
