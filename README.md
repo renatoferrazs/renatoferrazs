@@ -1,9 +1,11 @@
-### OI! Meu nome é Renato, criei esse repo para aperfeiçoar meus estudo na area de desenvolvimento de software 👋
+###Olá! Eu sou o Renato 👋
+Sou apaixonado por desenvolvimento de software e criei este repositório para compartilhar e aprimorar meus estudos na área.
 
+🔭 Quando não estou desenvolvendo, estou pescando e apreciando a natureza.
 
-- 🔭 Pescador por natureza, desenvolvedor nas horas vagas
-- 🌱 Aprendendo um pouco mais de Java, SpringBoot, POO, TDD 
-- 👯 Ajudo no que for preciso, se não souber, aprendemos juntos!
+🌱 Atualmente, estou me aprofundando em Java, Spring Boot, POO e TDD.
+
+👯 Gosto de colaborar com outros desenvolvedores e ajudar no que for preciso. Se não sei algo, aprendo junto!
 
  <div><a href="https://github.com/renatoferrazs">
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=renatoferrazs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locate=es"/></a>
